@@ -22,7 +22,7 @@ And then broken out into separate files, filtering on the ENERGY_SOURCE_1 attrib
 - [hydro.geojson](https://github.com/DruidSmith/powergeneration/blob/master/hydro.geojson) 
     - EIA-860 ENERGY_SOURCE_1 = 'WAT' (Water, Conventional or Pumped Storage)
 - [nuclear.geojson](https://github.com/DruidSmith/powergeneration/blob/master/nuclear.geojson) 
-    - EIA-860 ENERGY_SOURCE_1 = 'NUC' (Water, Conventional or Pumped Storage)
+    - EIA-860 ENERGY_SOURCE_1 = 'NUC' (Nuclear (Uranium, Plutonium, Thorium))
 - [coal.geojson](https://github.com/DruidSmith/powergeneration/blob/master/coal.geojson)
     - EIA-860 ENERGY_SOURCE_1 = 'ANT' (Anthracite Coal)
     - EIA-860 ENERGY_SOURCE_1 = 'BIT' (Bituminous Coal)
