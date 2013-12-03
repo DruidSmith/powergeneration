@@ -17,5 +17,5 @@ These have been filtered by:
 - EIA-860 STATUS = 'OP' (Operating)
 
 And then broken out into separate files
-- (https://github.com/DruidSmith/powergeneration/blob/master/solar.geojson "solar.geojson") EIA-860 ENERGY_SOURCE_1 = 'SUN' (Solar (Photovoltaic, Thermal)
-- (https://github.com/DruidSmith/powergeneration/blob/master/hydro.geojson "hydro.geojson") EIA-860 ENERGY_SOURCE_1 = 'WAT' (Water, Conventional or Pumped Storage)
+- [solar.geojson](https://github.com/DruidSmith/powergeneration/blob/master/solar.geojson) EIA-860 ENERGY_SOURCE_1 = 'SUN' (Solar (Photovoltaic, Thermal)
+- [hydro.geojson](https://github.com/DruidSmith/powergeneration/blob/master/hydro.geojson) EIA-860 ENERGY_SOURCE_1 = 'WAT' (Water, Conventional or Pumped Storage)
